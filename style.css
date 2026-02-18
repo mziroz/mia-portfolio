@@ -1,0 +1,1040 @@
+body {
+  font-family: var(--font-main);
+}
+
+.portfolio,
+.portfolio * {
+  box-sizing: border-box;
+}
+.portfolio {
+  background: #fefff6;
+  height: 7178px;
+  position: relative;
+  overflow: hidden;
+}
+.black-rectange {
+  background: #000000;
+  width: 750px;
+  height: 7178px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.projects-page {
+  width: 1305px;
+  height: 4766px;
+  position: absolute;
+  left: 0px;
+  top: 1110px;
+}
+.project-designs {
+  display: flex;
+  flex-direction: column;
+  gap: 150px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 0px;
+  top: 310px;
+}
+.ux-ui {
+  flex-shrink: 0;
+  width: 1305px;
+  height: 1613px;
+  position: relative;
+}
+.ux-ui-designs {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: center;
+  width: 1305px;
+  position: absolute;
+  top: 74px;
+}
+.pictures {
+  display: flex;
+  flex-direction: column;
+  gap: 139px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.np-pulse-redesign-pics {
+  padding: 0px 104px 0px 104px;
+  display: flex;
+  flex-direction: row;
+  gap: 28px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.screenshot-2026-02-06-at-02-04-20-1 {
+  border-radius: 25px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 3px;
+  flex-shrink: 0;
+  width: 160px;
+  height: 347px;
+  position: relative;
+  box-shadow: 0px 4px 7.7px 0px rgba(0, 0, 0, 0.73);
+  object-fit: cover;
+  aspect-ratio: 160/347;
+}
+.screenshot-2026-02-06-at-02-04-20-2 {
+  border-radius: 25px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 3px;
+  flex-shrink: 0;
+  width: 161px;
+  height: 347px;
+  position: relative;
+  box-shadow: 0px 4px 7.7px 0px rgba(0, 0, 0, 0.73);
+  object-fit: cover;
+  aspect-ratio: 161/347;
+}
+.screenshot-2026-02-06-at-02-03-30-1 {
+  border-radius: 25px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 3px;
+  flex-shrink: 0;
+  width: 160px;
+  height: 347px;
+  position: relative;
+  box-shadow: 0px 4px 7.7px 0px rgba(0, 0, 0, 0.73);
+  object-fit: cover;
+  aspect-ratio: 160/347;
+}
+.np-buzz-pics {
+  padding: 0px 104px 0px 104px;
+  display: flex;
+  flex-direction: row;
+  gap: 28px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.screenshot-2026-02-06-at-02-03-30-3 {
+  border-radius: 15px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 3px;
+  flex-shrink: 0;
+  width: 160px;
+  height: 347px;
+  position: relative;
+  box-shadow: 0px 4px 7.7px 0px rgba(0, 0, 0, 0.73);
+  object-fit: cover;
+  aspect-ratio: 160/347;
+}
+.screenshot-2026-02-06-at-02-03-30-2 {
+  border-radius: 15px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 3px;
+  flex-shrink: 0;
+  width: 160px;
+  height: 347px;
+  position: relative;
+  box-shadow: 0px 4px 7.7px 0px rgba(0, 0, 0, 0.73);
+  object-fit: cover;
+  aspect-ratio: 160/347;
+}
+.screenshot-2026-02-06-at-02-03-30-12 {
+  border-radius: 15px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 3px;
+  flex-shrink: 0;
+  width: 160px;
+  height: 347px;
+  position: relative;
+  box-shadow: 0px 4px 7.7px 0px rgba(0, 0, 0, 0.73);
+  object-fit: cover;
+  aspect-ratio: 160/347;
+}
+.lagi-studio-pics {
+  display: flex;
+  flex-direction: column;
+  gap: 11px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 744px;
+  position: relative;
+}
+.screenshot-2026-02-06-at-02-30-25-1 {
+  border-radius: 15px;
+  flex-shrink: 0;
+  width: 433px;
+  height: 278px;
+  position: relative;
+  object-fit: cover;
+}
+.screenshot-2026-02-06-at-02-31-08-1 {
+  border-radius: 15px;
+  flex-shrink: 0;
+  width: 433px;
+  height: 278px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 433/278;
+}
+.description-ux {
+  padding: 40px 64px 40px 64px;
+  width: 550px;
+  height: 1390px;
+  position: relative;
+}
+.project-np-pulse {
+  padding: 0px 50px 0px 50px;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 99.5px;
+  top: 40px;
+}
+.np-pulse-app-redesign {
+  color: #000000;
+  text-align: center;
+  font-family: "Courier Prime", monospace;
+  font-weight: 700;
+  font-size: 20px;
+  position: relative;
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-nostrud-exercitation-ullamco-laboris-nisi-ut-aliquip-ex-ea-commodo-consequat {
+  color: #000000;
+  text-align: center;
+  font-family: "Courier Prime", monospace;
+  font-style: italic;
+  font-size: 16px;
+  font-weight: 400;
+  position: relative;
+  width: 252px;
+}
+.preview-button-black {
+  background: #000000;
+  border-style: solid;
+  border-color: #fefff6;
+  border-width: 3px;
+  padding: 5px 10px 5px 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+  box-shadow: 0px 4px 7.7px 0px rgba(0, 0, 0, 0.2);
+}
+.preview {
+  color: #fefff6;
+  text-align: center;
+  font-family: "Courier Prime", monospace;
+  font-weight: 700;
+  font-size: 20px;
+  position: relative;
+}
+.project-np-buzz {
+  padding: 0px 48px 0px 48px;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: center;
+  justify-content: center;
+  width: 423px;
+  position: absolute;
+  left: 64px;
+  top: 524px;
+}
+.np-buzz-promoting-history {
+  color: #000000;
+  text-align: center;
+  font-family: "Courier Prime", monospace;
+  font-weight: 700;
+  font-size: 20px;
+  position: relative;
+  width: 327px;
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-nostrud-exercitation-ullamco-laboris-nisi-ut-aliquip-ex-ea-commodo-consequat2 {
+  color: #000000;
+  text-align: center;
+  font-family: "Courier Prime", monospace;
+  font-size: 16px;
+  font-weight: 400;
+  font-style: italic;
+  position: relative;
+  width: 279px;
+}
+.preview-button-white {
+  background: #fefff6;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 3px;
+  padding: 5px 10px 5px 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+  box-shadow: 0px 4px 7.7px 0px rgba(0, 0, 0, 0.2);
+}
+.preview2 {
+  color: #000000;
+  text-align: center;
+  font-family: "Courier Prime", monospace;
+  font-weight: 700;
+  font-size: 20px;
+  position: relative;
+}
+.project-lagi-studio {
+  padding: 0px 50px 0px 50px;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 86px;
+  top: 1074px;
+}
+.lagi-studio {
+  color: #000000;
+  text-align: center;
+  font-family: "Courier Prime", monospace;
+  font-size: 20px;
+  font-weight: 700;
+  position: relative;
+  align-self: stretch;
+}
+.preview-button-black2 {
+  background: #000000;
+  border-style: solid;
+  border-color: #fefff6;
+  border-width: 3px;
+  padding: 5px 10px 5px 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+  box-shadow: 0px 4px 7.7px 0px rgba(0, 0, 0, 0.2);
+}
+.ux-ui-title {
+  padding: 0px 160px 0px 160px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.ux-ui-designs2 {
+  color: #fefff6;
+  text-align: center;
+  font-family: "Courier Prime", monospace;
+  font-size: 25px;
+  font-weight: 700;
+  font-style: italic;
+  text-decoration: underline;
+  position: relative;
+}
+.coding {
+  flex-shrink: 0;
+  width: 1305px;
+  height: 1602px;
+  position: relative;
+}
+.coding-designs {
+  width: 1305px;
+  height: 1508px;
+  position: absolute;
+  right: 0px;
+  top: 94px;
+}
+.description-code {
+  padding: 36px 202px 36px 202px;
+  width: 750px;
+  height: 1333px;
+  position: absolute;
+  left: 0px;
+  top: 175px;
+}
+.project-imda {
+  display: flex;
+  flex-direction: column;
+  gap: 19px;
+  align-items: center;
+  justify-content: center;
+  width: 346px;
+  position: absolute;
+  left: 202px;
+  top: 36px;
+}
+.imda-gen-ai-game {
+  color: #fefff6;
+  text-align: center;
+  font-family: "Courier Prime", monospace;
+  font-size: 20px;
+  font-weight: 700;
+  position: relative;
+  align-self: stretch;
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-nostrud-exercitation-ullamco-laboris-nisi-ut-aliquip-ex-ea-commodo-consequat3 {
+  color: #fefff6;
+  text-align: center;
+  font-family: "Courier Prime", monospace;
+  font-size: 16px;
+  font-weight: 400;
+  font-style: italic;
+  position: relative;
+  width: 279px;
+}
+.project-np-pulse2 {
+  display: flex;
+  flex-direction: column;
+  gap: 19px;
+  align-items: center;
+  justify-content: center;
+  width: 346px;
+  position: absolute;
+  left: 202px;
+  top: 594px;
+}
+.rpg-game {
+  color: #fefff6;
+  text-align: center;
+  font-family: "Courier Prime", monospace;
+  font-size: 20px;
+  font-weight: 700;
+  position: relative;
+  align-self: stretch;
+}
+.preview-button-white2 {
+  background: #fefff6;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 3px;
+  padding: 5px 10px 5px 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+  box-shadow: 0px 4px 7.7px 0px rgba(0, 0, 0, 0.2);
+}
+.portfolio2 {
+  display: flex;
+  flex-direction: column;
+  gap: 37px;
+  align-items: center;
+  justify-content: center;
+  width: 346px;
+  position: absolute;
+  left: 202px;
+  top: 1152px;
+}
+.this-portfolio {
+  color: #fefff6;
+  text-align: left;
+  font-family: "Courier Prime", monospace;
+  font-size: 20px;
+  font-weight: 700;
+  position: relative;
+}
+.i-designed-and-made-this-entire-portfolio-as-a-challenge-to-myself-with-everything-that-i-learnt-before-i-wanted-to-try-something-new {
+  color: #fefff6;
+  text-align: center;
+  font-family: "Courier Prime", monospace;
+  font-size: 16px;
+  font-weight: 400;
+  font-style: italic;
+  position: relative;
+  width: 346px;
+}
+.pictures-code {
+  padding: 0px 37px 0px 37px;
+  display: flex;
+  flex-direction: column;
+  gap: 98px;
+  align-items: center;
+  justify-content: center;
+  width: 552px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+}
+.pictures2 {
+  display: flex;
+  flex-direction: column;
+  gap: 19px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 489px;
+  position: relative;
+}
+.screenshot-2026-02-09-at-10-59-32-1 {
+  border-radius: 15px;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 280px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 489/280;
+}
+.screenshot-2026-02-09-at-11-02-11-1 {
+  border-radius: 15px;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 282px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 489/282;
+}
+.pictures3 {
+  display: flex;
+  flex-direction: column;
+  gap: 13px;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 521px;
+  position: relative;
+}
+.screenshot-2026-02-09-at-11-06-23-1 {
+  border-radius: 15px;
+  flex-shrink: 0;
+  width: 480px;
+  height: 173px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 480/173;
+}
+.screenshot-2026-02-09-at-11-07-41-1 {
+  border-radius: 15px;
+  flex-shrink: 0;
+  width: 480px;
+  height: 152px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 480/152;
+}
+.screenshot-2026-02-09-at-11-07-09-1 {
+  border-radius: 15px;
+  flex-shrink: 0;
+  width: 480px;
+  height: 170px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 480/170;
+}
+.coding-title {
+  padding: 0px 160px 0px 160px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-end;
+  justify-content: flex-start;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+}
+.coding-related {
+  color: #000000;
+  text-align: left;
+  font-family: "Courier Prime", monospace;
+  font-size: 25px;
+  font-weight: 700;
+  font-style: italic;
+  text-decoration: underline;
+  position: relative;
+}
+.editing {
+  flex-shrink: 0;
+  width: 1305px;
+  height: 933px;
+  position: relative;
+}
+.editing-videos {
+  padding: 0px 235px 0px 235px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: center;
+  justify-content: center;
+  width: 749px;
+  height: 788px;
+  position: absolute;
+  left: 0px;
+  top: 570px;
+}
+.ctv-graphics-description {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 279px;
+  position: relative;
+}
+.ctv-graphics {
+  color: #fefff6;
+  text-align: center;
+  font-family: "Courier Prime", monospace;
+  font-size: 20px;
+  font-weight: 700;
+  position: relative;
+  align-self: stretch;
+}
+.for-my-final-year-project-i-was-a-part-of-the-campus-tv-station-i-was-one-of-the-production-manager-and-these-are-some-motion-graphics-i-did-for-my-semester {
+  color: #fefff6;
+  text-align: center;
+  font-family: "Courier Prime", monospace;
+  font-size: 16px;
+  font-weight: 400;
+  font-style: italic;
+  position: relative;
+  width: 279px;
+}
+.CTV-INTRO {
+  border-radius: 15px;
+  border-style: solid;
+  border-color: #fefff6;
+  border-width: 3px;
+  width: 500px;
+  height: 300px;
+}
+.CTV-LOGO-BG-WHITE {
+  border-radius: 15px;
+  border-style: solid;
+  border-color: #fefff6;
+  border-width: 3px;
+  width: 500px;
+  height: 300px;
+}
+.SUP-INTRO {
+  border-radius: 15px;
+  border-style: solid;
+  border-color: #fefff6;
+  border-width: 3px;
+  width: 500px;
+  height: 300px;
+}
+.WUINP-HUMMIES {
+  border-radius: 15px;
+  border-style: solid;
+  border-color: #fefff6;
+  border-width: 3px;
+  width: 500px;
+  height: 300px;
+}
+.WUINP-MOSAIC {
+  border-radius: 15px;
+  border-style: solid;
+  border-color: #fefff6;
+  border-width: 3px;
+  width: 500px;
+  height: 300px;
+}
+.editing-description {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 860px;
+  top: 133px;
+}
+.ctv-edited-vids-description {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 279px;
+  position: relative;
+}
+.ctv-edited-videos {
+  color: #000000;
+  text-align: center;
+  font-family: "Courier Prime", monospace;
+  font-size: 20px;
+  font-weight: 700;
+  position: relative;
+  align-self: stretch;
+}
+.additionally-i-edited-3-out-of-7-videos-for-my-capstone-campus-tv-station-here-are-the-collaterals-below-is-the-link-to-ctv-s-youtube-channel {
+  color: #000000;
+  text-align: center;
+  font-family: "Courier Prime", monospace;
+  font-size: 16px;
+  font-weight: 400;
+  font-style: italic;
+  position: relative;
+  width: 279px;
+}
+.WUINP-SCAREFEST-VID {
+  border-radius: 15px;
+  width: 490px;
+  height: 280px;
+}
+.WUINP-HUMMIES-VID {
+  border-radius: 15px;
+  width: 490px;
+  height: 280px;
+}
+.WUINP-MOSAIC-VID {
+  border-radius: 15px;
+  width: 490px;
+  height: 280px;
+}
+.editing-title {
+  padding: 0px 60px 0px 60px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 555px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+}
+.motion-graphics-editing {
+  color: #000000;
+  text-align: center;
+  font-family: "Courier Prime", monospace;
+  font-size: 25px;
+  font-weight: 700;
+  font-style: italic;
+  text-decoration: underline;
+  position: relative;
+}
+.projects-title {
+  width: 778px;
+  height: 262px;
+  position: absolute;
+  left: 475px;
+  top: 0px;
+}
+._4-1 {
+  width: 275px;
+  height: 262px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  object-fit: cover;
+  aspect-ratio: 275/262;
+}
+.home-page {
+  width: 1305px;
+  height: 827px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+._2026 {
+  padding: 24px 36px 24px 36px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-end;
+  position: absolute;
+  right: 30px;
+  top: 0px;
+}
+._20262 {
+  color: #000000;
+  text-align: left;
+  font-family: "Courier Prime", monospace;
+  font-size: 20px;
+  font-weight: 700;
+  font-style: italic;
+  position: relative;
+}
+.portfolio3 {
+  width: 1027px;
+  height: 219px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.portfolio-1-1 {
+  width: 1027px;
+  height: 219px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  object-fit: cover;
+  aspect-ratio: 1027/219;
+}
+._2-27 {
+  width: 258px;
+  height: 219px;
+  position: absolute;
+  left: 750px;
+  top: 0px;
+  object-fit: cover;
+}
+.home-intro {
+  display: flex;
+  flex-direction: row;
+  gap: 250px;
+  align-items: center;
+  justify-content: space-between;
+  position: absolute;
+  left: 0px;
+  top: 267px;
+}
+.intro {
+  padding: 0px 130px 0px 160px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.intro-name {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.miasara-binte-mohamad-norfitri {
+  color: #fefff6;
+  text-align: center;
+  font-family: "Courier Prime", monospace;
+  font-size: 20px;
+  font-weight: 700;
+  position: relative;
+  align-self: stretch;
+}
+.motion-design-ux-ui-design-frontend-development {
+  color: #fefff6;
+  text-align: left;
+  font-family: "Courier Prime", monospace;
+  font-size: 16px;
+  font-weight: 400;
+  font-style: italic;
+  position: relative;
+}
+.picture {
+  flex-shrink: 0;
+  width: 354px;
+  height: 306px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 354/306;
+}
+.proficiencies {
+  flex-shrink: 0;
+  width: 301px;
+  height: 184px;
+  position: relative;
+}
+.frame-4 {
+  display: flex;
+  flex-direction: row;
+  gap: 7px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 0px;
+  top: 40px;
+}
+.dropped-image-1 {
+  border-radius: 15px;
+  border-style: solid;
+  border-color: #fefff6;
+  border-width: 2px;
+  flex-shrink: 0;
+  width: 70px;
+  height: 70px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.html-5-logo-and-wordmark-svg-1 {
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  flex-shrink: 0;
+  width: 70px;
+  height: 70px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.css-logo-2011-1 {
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  flex-shrink: 0;
+  width: 70px;
+  height: 70px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.java-script-logo-1 {
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  flex-shrink: 0;
+  width: 70px;
+  height: 70px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.frame-3 {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 5px;
+  top: 119px;
+}
+.after-effects-logo-1 {
+  border-radius: 15px;
+  border-style: solid;
+  border-color: #fefff6;
+  border-width: 2px;
+  flex-shrink: 0;
+  width: 65px;
+  height: 65px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.adobe-premiere-pro-cc-icon-app-logo-editable-transparent-background-premium-social-media-design-for-digital-download-free-png-1 {
+  border-radius: 15px;
+  border-style: solid;
+  border-color: #fefff6;
+  border-width: 2px;
+  flex-shrink: 0;
+  width: 65px;
+  height: 65px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.adobe-photoshop-cc-icon-svg-1 {
+  border-radius: 15px;
+  border-style: solid;
+  border-color: #fefff6;
+  border-width: 2px;
+  flex-shrink: 0;
+  width: 65px;
+  height: 65px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.adobe-illustrator-cc-icon-svg-1 {
+  border-radius: 15px;
+  border-style: solid;
+  border-color: #fefff6;
+  border-width: 2px;
+  flex-shrink: 0;
+  width: 65px;
+  height: 65px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.proficiency-in {
+  color: #fefff6;
+  text-align: center;
+  font-family: "Courier Prime", monospace;
+  font-size: 18px;
+  font-weight: 700;
+  position: absolute;
+  left: 64px;
+  top: 0px;
+}
+.intro-paragraph {
+  padding: 0px 63px 0px 63px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(-1, 1);
+}
+.hi-i-m-mia-i-m-a-motion-and-graphic-designer-with-a-strong-interest-in-user-centric-design-and-front-end-development-i-m-a-graduating-third-year-mass-communications-student-at-ngee-ann-polytechnic-where-i-ve-developed-a-foundation-in-html-css-js-figma-and-after-effects-i-m-particularly-interested-in-interdisciplinary-work-that-bridges-design-and-computer-science-below-is-a-selection-of-projects-that-reflect-my-interests {
+  color: #000000;
+  text-align: right;
+  font-family: "-", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: relative;
+  width: 427px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(-1, 1);
+}
+.hi-i-m-mia-i-m-a-motion-and-graphic-designer-with-a-strong-interest-in-user-centric-design-and-front-end-development-i-m-a-graduating-third-year-mass-communications-student-at-ngee-ann-polytechnic-where-i-ve-developed-a-foundation-in-html-css-js-figma-and-after-effects-i-m-particularly-interested-in-interdisciplinary-work-that-bridges-design-and-computer-science-below-is-a-selection-of-projects-that-reflect-my-interests-span {
+  font-family: "Courier Prime", monospace;
+}
+.hi-i-m-mia-i-m-a-motion-and-graphic-designer-with-a-strong-interest-in-user-centric-design-and-front-end-development-i-m-a-graduating-third-year-mass-communications-student-at-ngee-ann-polytechnic-where-i-ve-developed-a-foundation-in-html-css-js-figma-and-after-effects-i-m-particularly-interested-in-interdisciplinary-work-that-bridges-design-and-computer-science-below-is-a-selection-of-projects-that-reflect-my-interests-span2 {
+  font-family: "Courier Prime", monospace;
+  font-weight: 700;
+  font-style: italic;
+  text-decoration: underline;
+}
+.hi-i-m-mia-i-m-a-motion-and-graphic-designer-with-a-strong-interest-in-user-centric-design-and-front-end-development-i-m-a-graduating-third-year-mass-communications-student-at-ngee-ann-polytechnic-where-i-ve-developed-a-foundation-in-html-css-js-figma-and-after-effects-i-m-particularly-interested-in-interdisciplinary-work-that-bridges-design-and-computer-science-below-is-a-selection-of-projects-that-reflect-my-interests-span3 {
+  font-family: "Courier Prime", monospace;
+  text-decoration: underline;
+}
+.hi-i-m-mia-i-m-a-motion-and-graphic-designer-with-a-strong-interest-in-user-centric-design-and-front-end-development-i-m-a-graduating-third-year-mass-communications-student-at-ngee-ann-polytechnic-where-i-ve-developed-a-foundation-in-html-css-js-figma-and-after-effects-i-m-particularly-interested-in-interdisciplinary-work-that-bridges-design-and-computer-science-below-is-a-selection-of-projects-that-reflect-my-interests-span4 {
+  font-family: "Courier Prime", monospace;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.reveal {
+  opacity: 0;
+  transform: translateY(40px);
+  transition: opacity 0.6s ease, transform 0.6s ease;
+}
+
+.reveal.active {
+  opacity: 1;
+  transform: translateY(0);
+}
